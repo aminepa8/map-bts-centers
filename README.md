@@ -1,8 +1,8 @@
 # map-bts-centers
-A map that show all bts centers and where are located
+A map that show all bts centers and where are located...
 
 # map Screenshot!
-![Map Screenshot](https://github.com/aminepa8/map-bts-centers/screeshot.png)
+![Map Screenshot](https://github.com/aminepa8/map-bts-centers/blob/master/screenshot.png?raw=true)
   - Url : https://bts-map.herokuapp.com/
   - click on the blue marker to check center info (pop-up style)
   - Drag and drop images (requires your Dropbox account be linked)
