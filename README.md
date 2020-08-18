@@ -11,6 +11,7 @@ A map that show all bts centers and where are located...
 ### Add Another Marker
 
 How to add another Marker to the map:
+![Pop-up Screenshot](https://github.com/aminepa8/map-bts-centers/blob/master/pop-up-marker.png?raw=true)
 
 * open the file data.php
 * create a new php variable in the end of file (current last variable is $v33 so you can create another one name it $v34 , v signify ville which mean city)
